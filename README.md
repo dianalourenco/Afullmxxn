@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Afullmxxn
+- 👋 Hi, I’m Diana
 - 👀 I’m interested in Bioinformatics/Computacional Biology, Machine Learning
 - 🌱 I’m currently learning Bioinformatics
 - 💞️ I’m looking to collaborate on ...
